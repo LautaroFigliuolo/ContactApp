@@ -66,7 +66,7 @@ $contacts=[
             <a class="nav-link" href="./index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="./add.html" target="_blank" >Add Contact</a>
+            <a class="nav-link" href="./add.php" target="_blank" >Add Contact</a>
           </li>
         </ul>
       </div>
